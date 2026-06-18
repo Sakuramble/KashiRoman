@@ -1,0 +1,5 @@
+mutagen==1.47.0
+SudachiPy==0.6.11
+SudachiDict-core==20260428
+tkinterdnd2==0.4.3
+pyinstaller==6.18.0
