@@ -28,7 +28,12 @@
 ![Output](https://img.shields.io/badge/Output-Romaji%20Lyrics-FF5722)
 ![License](https://img.shields.io/badge/License-GPL--3.0--or--later-7C3AED)
 ![Release](https://img.shields.io/github/v/release/V0idream/KashiRoman?include_prereleases)
-![Downloads](https://img.shields.io/github/downloads/V0idream/KashiRoman/total)
+
+<p>
+  <a href="https://github.com/V0idream/KashiRoman/releases">
+    <img src="https://img.shields.io/github/downloads/V0idream/KashiRoman/total?label=Release%20Downloads&style=for-the-badge" alt="Release Downloads" />
+  </a>
+</p>
 
 </div>
 
